@@ -19,6 +19,7 @@ st.set_page_config(
 
 st.title("Comparador de Textos")
 st.caption("Comparação entre texto1.txt e texto2.txt")
+st.capition("Exemplo retirado do PL 2470/2024 (Substitutivos 1 e 2)")
 
 
 # ============================================================
